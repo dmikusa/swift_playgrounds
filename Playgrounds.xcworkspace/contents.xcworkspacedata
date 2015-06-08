@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:BasicSwift.playground">
+   </FileRef>
+   <FileRef
+      location = "group:FileIO.playground">
+   </FileRef>
+   <FileRef
+      location = "group:JSON.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Networking.playground">
+   </FileRef>
+   <Group
+      location = "group:Alamofire"
+      name = "Alamofire">
+      <FileRef
+         location = "group:Alamofire.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Alamofire.podspec">
+      </FileRef>
+      <FileRef
+         location = "group:Alamofire.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Alamofire.xcworkspace">
+      </FileRef>
+      <Group
+         location = "group:Carthage"
+         name = "Carthage">
+         <FileRef
+            location = "group:Build">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Example"
+         name = "Example">
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:DetailViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:HTTPBin.swift">
+         </FileRef>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:LaunchImage.launchimage"
+               name = "LaunchImage.launchimage">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Logo.imageset"
+               name = "Logo.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:Logo.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Logo@2x.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:MasterViewController.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:iOS Example.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:LICENSE">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <Group
+         location = "group:Source"
+         name = "Source">
+         <FileRef
+            location = "group:Alamofire.h">
+         </FileRef>
+         <FileRef
+            location = "group:Alamofire.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Tests"
+         name = "Tests">
+         <FileRef
+            location = "group:AuthenticationTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:DownloadTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:ManagerTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ParameterEncodingTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RequestTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ResponseTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TLSEvaluationTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:UploadTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ValidationTests.swift">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:Just"
+      name = "Just">
+      <FileRef
+         location = "group:Cartfile.private">
+      </FileRef>
+      <FileRef
+         location = "group:Cartfile.resolved">
+      </FileRef>
+      <Group
+         location = "group:Carthage"
+         name = "Carthage">
+         <FileRef
+            location = "group:Build">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Docs"
+         name = "Docs">
+         <FileRef
+            location = "group:JustStarting.playground">
+         </FileRef>
+         <FileRef
+            location = "group:JustStarting.zip">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Just"
+         name = "Just">
+         <Group
+            location = "group:Just-iOS"
+            name = "Just-iOS">
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Just-iOS.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Just-OSX"
+            name = "Just-OSX">
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Just-OSX.h">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Just.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Just.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:JustTests"
+         name = "JustTests">
+         <FileRef
+            location = "group:CaseInsensitiveDictionarySpecs.swift">
+         </FileRef>
+         <FileRef
+            location = "group:elon.jpg">
+         </FileRef>
+         <Group
+            location = "group:Just-iOSTests"
+            name = "Just-iOSTests">
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Just-OSXTests"
+            name = "Just-OSXTests">
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:JustSpecs.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:LICENSE.md">
+      </FileRef>
+      <FileRef
+         location = "group:Makefile">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:SwiftyJSON"
+      name = "SwiftyJSON">
+      <Group
+         location = "group:Carthage"
+         name = "Carthage">
+         <FileRef
+            location = "group:Build">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Example"
+         name = "Example">
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.xib">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:LaunchImage.launchimage"
+               name = "LaunchImage.launchimage">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:Default@2x.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SwiftyJSONTests.json">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Example.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:LICENSE">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <Group
+         location = "group:Source"
+         name = "Source">
+         <FileRef
+            location = "group:Info-iOS.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Info-OSX.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SwiftyJSON.h">
+         </FileRef>
+         <FileRef
+            location = "group:SwiftyJSON.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SwiftyJSON.podspec">
+      </FileRef>
+      <FileRef
+         location = "group:SwiftyJSON.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:SwiftyJSON.xcworkspace">
+      </FileRef>
+      <Group
+         location = "group:Tests"
+         name = "Tests">
+         <FileRef
+            location = "group:ArrayTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BaseTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ComparableTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:DictionaryTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info-iOS.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Info-OSX.plist">
+         </FileRef>
+         <FileRef
+            location = "group:LiteralConvertibleTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:NumberTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PerformanceTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PrintableTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RawRepresentableTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RawTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SequenceTypeTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:StringTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SubscriptTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Tests.json">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
