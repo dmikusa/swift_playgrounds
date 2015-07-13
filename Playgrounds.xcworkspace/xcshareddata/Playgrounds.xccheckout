@@ -10,15 +10,27 @@
 	<string>Playgrounds</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>67620B5EFA902936DF04070AF595B76AB0333747</key>
+		<string>https://github.com/Alamofire/Alamofire.git</string>
 		<key>B1A093F9666B6981C8C317B04F27511B9663A5BE</key>
 		<string>https://github.com/dmikusa/swift_playgrounds.git</string>
+		<key>BC949C044609264A7DE78DBBB5DCDDF5E033DADA</key>
+		<string>https://github.com/JustHTTP/Just.git</string>
+		<key>C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3</key>
+		<string>https://github.com/SwiftyJSON/SwiftyJSON.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Playgrounds.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>67620B5EFA902936DF04070AF595B76AB0333747</key>
+		<string>../Alamofire/</string>
 		<key>B1A093F9666B6981C8C317B04F27511B9663A5BE</key>
 		<string>..</string>
+		<key>BC949C044609264A7DE78DBBB5DCDDF5E033DADA</key>
+		<string>../Just/</string>
+		<key>C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3</key>
+		<string>../SwiftyJSON/</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/dmikusa/swift_playgrounds.git</string>
@@ -32,9 +44,33 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67620B5EFA902936DF04070AF595B76AB0333747</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Alamofire</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC949C044609264A7DE78DBBB5DCDDF5E033DADA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Just</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>B1A093F9666B6981C8C317B04F27511B9663A5BE</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Playgrounds</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftyJSON</string>
 		</dict>
 	</array>
 </dict>
